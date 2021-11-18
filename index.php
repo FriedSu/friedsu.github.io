@@ -1,1 +1,1 @@
-<?php include_once("jquery.min.js");?>
+<?php include_once("home.html");?>
